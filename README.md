@@ -1,5 +1,7 @@
 # Uber Sales Dashboard using Power BI and AI
 
+![Uber Dashboard](./Images/uber%20dashboard.png)
+
 ## Project Overview
 
 This project is based on analysing Uber sales and ride data using Power BI.  
